@@ -8,7 +8,7 @@ export const data = [
     {id:7,name:'samir',link:"https://github.com/KonstantinKonov/Django_simple"},
     {id:8,name:'fərid dəmirov',link:"https://github.com/diego0309/djangoMultiDb"},
     {id:9,name:'gokdeniz',link:"https://github.com/HRahman1777/end_game"},
-    {id:10,name:'saməddin',link:"https://github.com/DiegoEvangelista15/Django---Invista-Project"},
+    {id:10,name:'sam sulekəddin',link:"https://youtu.be/A91ji_RTNLU?si=6uhdVHeDDns1Lnsy"},
     {id:11,name:'nicat',link:"https://github.com/pavantrinath/DjangoSearchApp"},
     {id:12,name:'vüsal',link:"https://github.com/vivaan19/Django-Personal-Projects"},
     {id:13,name:'aysu',link:"https://github.com/tybeck3/django-courses"},
@@ -26,3 +26,4 @@ export const data = [
     {id:26,name:'hasan',link:"https://github.com/LonguiVic/First-Django-Project"},
     {id:27,name:'sahib',link:"https://github.com/ETCBishal/CRUD_Operation_in_django"}, 
 ]
+// https://github.com/DiegoEvangelista15/Django---Invista-Project
