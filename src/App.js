@@ -20,7 +20,7 @@ function App() {
     <div className="App">
       <div className='project'>
         <h1 className='project__title'>
-          Web Sərbəst İş Generator
+          652A2 Sərbəst İş Generator
         </h1>
         <input type="text" className='project__input' placeholder='jurnaldakı sıranı yaz' onChange={e => setName(e.target.value)}/>
         <button onClick={handleClick}>Sərbəst işi götür</button>
